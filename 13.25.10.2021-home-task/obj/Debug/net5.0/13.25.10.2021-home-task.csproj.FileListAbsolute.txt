@@ -1,0 +1,16 @@
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.exe
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.deps.json
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.runtimeconfig.json
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.runtimeconfig.dev.json
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.dll
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\ref\13.25.10.2021-home-task.dll
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\bin\Debug\net5.0\13.25.10.2021-home-task.pdb
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.csproj.AssemblyReference.cache
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.AssemblyInfoInputs.cache
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.AssemblyInfo.cs
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.csproj.CoreCompileInputs.cache
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.dll
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\ref\13.25.10.2021-home-task.dll
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.pdb
+D:\Education\Code Academy\P101\Tasks\Algorithms\13.25.10.2021-home-task\13.25.10.2021-home-task\obj\Debug\net5.0\13.25.10.2021-home-task.genruntimeconfig.cache
